@@ -37,14 +37,29 @@ Asian Paints is a low-debt, profitable company. FY Mar-25 was weak: sales fell 4
 | Asset Turnover | 1.19 | 1.12 | 1.03 |
 | Interest Coverage | 36.97 | 26.46 | 34.29 |
 | Debt-to-Equity | 0.13 | 0.12 | 0.18 |
+| EPS (Rs) | 56.92 | 38.23 | 45.09 |
+| Book Value per Share (Rs) | 195.25 | 202.25 | 222.81 |
+| Share Price (Rs) | 2,846.75 | 2,340.65 | 2,165.20 |
+| P/E Ratio | 50.01 | 61.22 | 48.02 |
+
+### How the New Ratios Were Calculated
+
+| Ratio | Formula |
+|---|---|
+| Number of Shares | Equity Share Capital / Face Value (Rs 1) = 95.92 Cr |
+| EPS | Net Profit / Number of Shares |
+| Book Value per Share | (Equity Share Capital + Reserves) / Number of Shares |
+| P/E Ratio | Market Price / EPS |
 
 ### Key Findings
 
 1. **Profitability:** Margins fell in Mar-25 and recovered in Mar-26, but have not reached Mar-24 levels.
-2. **Debt:** Debt-to-equity is low, but borrowings rose from ₹2,290 crore to ₹3,929 crore in Mar-26.
-3. **Debt safety:** Interest coverage is above 26x in every year, so profit easily covers interest.
+2. **Debt:** Debt-to-equity is low, but borrowings rose from Rs 2,290 crore to Rs 3,929 crore in Mar-26.
+3. **Debt safety:** Interest coverage is above 26x in every year, so profit easily pays the interest.
 4. **Returns:** ROE fell from 29.15% to 18.90%, then recovered to 20.24%.
-5. **Efficiency:** Asset turnover keeps falling (1.19 to 1.03), so assets are growing faster than sales.
+5. **EPS:** Shares stayed at 95.92 Cr, so EPS moved only with profit: Rs 56.92, Rs 38.23, Rs 45.09.
+6. **Valuation:** P/E peaked at 61.22 in Mar-25. EPS fell about 33% but the price fell only about 18%, so P/E went up.
+7. **Mar-26:** EPS recovered to Rs 45.09 but the price fell further to Rs 2,165.20, so P/E eased to 48.02.
 
 ### Still to Research
 
@@ -59,15 +74,5 @@ Asian Paints is a low-debt, profitable company. FY Mar-25 was weak: sales fell 4
 2. Link the numbers into an Analysis sheet
 3. Calculate margins, growth, return and leverage ratios
 4. Write findings in simple language
-
-## Roadmap
-
-- [x] Analysis #1: Ratio analysis (Asian Paints)
-- [ ] Peer comparison (Berger Paints)
-- [ ] EPS, book value per share and P/E
-- [ ] Cash flow analysis
-- [ ] Analysis #2: Forecast and DCF valuation
-
----
 
 *This is a learning project, not investment advice.*
