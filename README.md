@@ -67,7 +67,7 @@ Financial ratio analysis of Indian paint companies, built in Excel.
 Data source: Screener.in. All figures in Rs crore, years ending March 2024 to March 2026.
 
 ## Files
-- Berger Paints(2).xlsx
+- File: Berger Paints (2).xlsx
 
 ## What each workbook covers
 - Profit and loss: sales, operating profit, net profit, interest
