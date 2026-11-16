@@ -61,18 +61,37 @@ Asian Paints is a low-debt, profitable company. FY Mar-25 was weak: sales fell 4
 6. **Valuation:** P/E peaked at 61.22 in Mar-25. EPS fell about 33% but the price fell only about 18%, so P/E went up.
 7. **Mar-26:** EPS recovered to Rs 45.09 but the price fell further to Rs 2,165.20, so P/E eased to 48.02.
 
-### Still to Research
+# Company Analysis
 
-- Why did sales and margins fall in Mar-25? (annual report, management commentary)
-- How does Asian Paints compare with Berger Paints and Kansai Nerolac?
+Financial ratio analysis of Indian paint companies, built in Excel.
+Data source: Screener.in. All figures in Rs crore, years ending March 2024 to March 2026.
 
----
+## Files
+- Berger Paints(2).xlsx
 
-## Method
+## What each workbook covers
+- Profit and loss: sales, operating profit, net profit, interest
+- Growth and margins: sales growth, net profit growth, operating margin, net profit margin
+- Returns: ROE, ROA, EPS
+- Efficiency: asset turnover
+- Safety: interest coverage, debt to equity
+- Valuation: book value per share, P/E ratio
 
-1. Export 10 years of data from Screener.in
-2. Link the numbers into an Analysis sheet
-3. Calculate margins, growth, return and leverage ratios
-4. Write findings in simple language
+## Berger Paints: key findings (Mar-24 to Mar-26)
+- Sales grew 3.09% in Mar-25 and 2.91% in Mar-26
+- Operating margin fell from 16.62% to 15.43%
+- Net profit margin fell from 10.43% to 9.49%
+- Net profit rose to 1,180.40 crore in Mar-25, then fell to 1,126.87 crore in Mar-26
+- ROE fell from 21.71% to 16.29%, because equity grew 28.58% while net profit fell 3.5%
+- Debt to equity fell from 0.14 to 0.09
+- Interest coverage rose from 23.79 to 31.84 (based on operating profit)
 
-*This is a learning project, not investment advice.*
+Conclusion: Berger Paints is a low-debt company with strong interest coverage.
+Sales are growing, but margins, ROE and asset efficiency are declining.
+
+## Next
+Side-by-side comparison of Asian Paints and Berger Paints.
+
+## Tools
+Excel (formulas, cross-sheet links, ratio analysis)
+
