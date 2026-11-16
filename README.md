@@ -66,6 +66,8 @@ Asian Paints is a low-debt, profitable company. FY Mar-25 was weak: sales fell 4
 Financial ratio analysis of Indian paint companies, built in Excel.
 Data source: Screener.in. All figures in Rs crore, years ending March 2024 to March 2026.
 
+## Analysis #2: Berger Paints (Mar-24 to Mar-26)
+
 ## Files
 - File: Berger Paints (2).xlsx
 
